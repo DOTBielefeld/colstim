@@ -1,0 +1,12 @@
+
+
+--tournament_size 16
+--number_tournaments 1
+
+--wrapper_mod_name selector.wrapper.cadical_wrapper_one_five
+--wrapper_class_name Cadical_Wrapper
+
+
+
+
+
