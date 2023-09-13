@@ -1,0 +1,11 @@
+execdir = .
+deterministic = 0
+run_obj = runtime 
+overall_obj = mean
+cutoff_time = 300
+instance_file = ./input/instances/sat/sets/SHA-1_HARD_mb_0_r_21_cadical/SHA-1_mb_HARD_0_r_21_cadical_instances.txt
+feature_file = ./input/instances/sat/sets/SHA-1_HARD_mb_0_r_21_cadical/SHA-1_HARD_mb_0_r_21_features.csv
+paramfile = ./input/target_algorithms/cadical-master/param.pcs
+
+
+
